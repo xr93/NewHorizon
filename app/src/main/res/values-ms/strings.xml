@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">NewHorizon</string>
+
+    <!-- Feature Labels-->
+    <string name="text_catalogue">Katalog Produk</string>
+    <string name="text_prod_desc">100% dibuat oleh masyarakat, buatan tangan khas dengan sayang</string>
+    <string name="text_commission">Ruang Pesanan</string>
+    <string name="text_note">Nota: Untuk keselamatan komuniti, semua komunikasi akan dilakukan melalui kakitangan kami.</string>
+    <string name="blogTitle">Kisah Perjalanan</string>
+    <string name="text_blog_desc">Kisah-kisah tulus yang ditulis oleh masyarakat, dari perjalanan ke masa kini.</string>
+
+    <!-- Landing Page -->
+    <string name="page_login">Log Masuk</string>
+    <string name="page_register">Daftar Akaun</string>
+    <string name="page_guest">Sambung sebagai tetamu</string>
+
+    <!-- Login Page -->
+    <string name="login_welcome">Selamat Kembali</string>
+    <string name="hint_email">Isikan e-mel</string>
+    <string name="hint_password">Isikan kata laluan</string>
+    <string name="login_showPassword">Lihat kata laluan</string>
+    <string name="hint_reset">Lupa kata laluan?</string>
+
+    <!-- Register Page -->
+    <string name="text_sign_up">Daftar Akaun</string>
+    <string name="hint_firstName">Nama</string>
+    <string name="hint_lastName">Nama Keluarga</string>
+    <string name="hint_username">Nama Pengguna</string>
+    <string name="hint_pw">Kata Laluan</string>
+    <string name="hint_suEmail">E-mel</string>
+    <string name="btnSignUp">Daftar akaun</string>
+
+    <!-- Password Reset Page -->
+    <string name="pw_reset">Tetap Semula Kata Laluan</string>
+    <string name="pw_email">Isikan E-mel</string>
+    <string name="pw_reset_email">Isikan E-mel</string>
+    <string name="pw_reset_btn">Hantar</string>
+    <string name="pw_reset_back">Kembali</string>
+
+    <!-- Home Page Header -->
+    <string name="text_home">Hai!</string>
+    <string name="text_fact">Fakta Hari Ini:</string>
+    <string name="text_fact_desc">Terdapat kira-kira 69k pelarian yang tinggal di negeri Selangor.</string>
+
+    <!-- Commission Info Page -->
+    <string name="hint_refugee">Nama Komuniti</string>
+    <string name="hint_volunteer">Nama Teman</string>
+    <string name="com_abtMe">Tentang Saya</string>
+    <string name="hint_comRate">Kadar Pesanan</string>
+    <string name="hint_desc">Deskripsi</string>
+    <string name="place_order">Maklumat Lanjut</string>
+
+    <!-- Commission Form -->
+    <string name="orderName">Isikan Nama</string>
+    <string name="orderPhoneNum">Isikan Nombor Telefon</string>
+    <string name="orderEmail">Isikan E-mel</string>
+    <string name="commission_interest_form">Borang Minat Pesanan</string>
+    <string name="com_interest">Berminat untuk membuat pesanan? Jom mesej kami dan rakan teman kami akan sedia membantu.</string>
+    <string name="submit">Hantar</string>
+    <string name="btnWhatsApp">Teruskan ke WhatsApp</string>
+
+    <!-- Blog Page -->
+    <string name="hint_location">Lokasi</string>
+    <string name="text_donate">Memberi Sumbangan</string>
+
+    <!-- Donation Page -->
+    <string name="donationDetails">Maklumat Sumbangan</string>
+    <string name="header_donate_detail">Sekiranya anda ingin menyumbang secara terus, sila membuat sumbangan mengikut maklumat berikut:</string>
+    <string name="donate_bank">Nama Bank: SpringBank</string>
+    <string name="donate_acc">Nombor Akaun: 123456789</string>
+    <string name="donate_acc_name">Nama Akaun: TgtWithRefugees</string>
+    <string name="donate_code">Rujukan 1: Z001 (Zarya Ahmed)</string>
+    <string name="donate_code2">Rujukan 2: Nombor Telefon</string>
+    <string name="donate_ref">Nota: Sila isikan nombor telefon anda sebagai rujukan agar kami boleh menghubungi anda kerana setiap sumbangan disertakan dengan pemberian penghargaan.</string>
+    <string name="donate_back">Kembali ke Laman Blog</string>
+
+    <!-- Hints -->
+    <string name="product_name">Nama Produk</string>
+    <string name="product_maker">Tukang jahit</string>
+
+    <!-- Home Page Content -->
+    <string name="featureBtn1">Lihat Produk</string>
+    <string name="featureBtn2">Maklumat Lanjut</string>
+    <string name="featureBtn3">Teruskan Membaca</string>
+
+    <string name="featureDesc1">Layari pelbagai jenis produk buatan tangan, yang dibuat khas oleh komuniti :)</string>
+    <string name="featureDesc2">Berminat untuk mendapatkan karya yang unik?\n Layari perkhidmatan yang ditawarkan!</string>
+    <string name="featureDesc3">Dapatkan pandangan mengenai kehidupan komuniti, dari perjalanan ke kehidupan seharian mereka.</string>
+
+    <!-- Log In Status -->
+    <string name="txtGuestStatus">Pengguna semasa: Tetamu</string>
+    <string name="txtEmailStatus">\"Pengguna semasa: \"</string>
+
+    <!-- Blog Content -->
+    <string name="blogName1">Zarya Ahmed (@Z001)</string>
+    <string name="blogLoc1">Negara asal: Myanmar</string>
+    <string name="blogDesc1">Hai, saya Zarya. Saya dilahirkan di sebuah kampung kecil di negeri Rakhine di Myanmar. Saya meninggalkan rumah saya pada Disember 2009 dan tiba di Malaysia…</string>
+    <string name="blogBtn1">Beri sumbangan</string>
+
+    <!-- Commission Information -->
+    <string name="comName1">Zarya Ahmed (@Z001)</string>
+    <string name="comBuddy1">Teman: Skye Lee (@S001)</string>
+    <string name="comRate1">Kos: RM10/helai</string>
+    <string name="comDesc1">Hai! Saya Zarya. Saya pakar dalam produk jahit tangan seperti scrunchies.</string>
+    <string name="comBtn">Maklumat Lanjut</string>
+
+    <!-- Product Details -->
+    <string name="title1">Scrunchie</string>
+    <string name="maker1">Dibuat oleh Zarya</string>
+    <string name="title2">Beg Tote/string</string>
+    <string name="maker2">Dibuat oleh Mariyam</string>
+    <string name="title3">Topi kain</string>
+    <string name="maker3">Dibuat oleh Saleha</string>
+    <string name="title4">Topeng muka kain</string>
+    <string name="maker4">Dibuat oleh Bunga</string>
+    <string name="title5">Selendang</string>
+    <string name="maker5">Dibuat oleh Raya</string>
+
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name" translatable="false">NewHorizon</string>
+
+    <!-- Feature Labels-->
+    <string name="text_catalogue">Product Catalogue</string>
+    <string name="text_prod_desc">100% made by the community, specially handcrafted with care</string>
+    <string name="text_commission">Commission Space</string>
+    <string name="text_note">Note: For the safety of the community, all communications will be done through our staff.</string>
+    <string name="blogTitle">Journey Story Time</string>
+    <string name="text_blog_desc">Heartfelt stories written by the community themselves, from the journey to the present.</string>
+
+    <!-- Landing Page -->
+    <string name="page_login">Login</string>
+    <string name="page_register">Register</string>
+    <string name="page_guest">Continue as guest</string>
+
+    <!-- Login Page -->
+    <string name="login_welcome">Welcome Back</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="login_showPassword">Show Password</string>
+    <string name="hint_reset">Forgot Password?</string>
+
+    <!-- Register Page -->
+    <string name="text_sign_up">SIGN UP</string>
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_pw">Password</string>
+    <string name="hint_suEmail">Email</string>
+    <string name="btnSignUp">Sign Up</string>
+
+    <!-- Password Reset Page -->
+    <string name="pw_reset">RESET YOUR PASSWORD</string>
+    <string name="pw_email">Please enter your email:</string>
+    <string name="pw_reset_email">Enter your email</string>
+    <string name="pw_reset_btn">Reset password</string>
+    <string name="pw_reset_back">Back</string>
+
+    <!-- Home Page Header -->
+    <string name="text_home">Hey There!</string>
+    <string name="text_fact">Fact of the Day:</string>
+    <string name="text_fact_desc">There are around 69k refugees residing in the state of Selangor alone.</string>
+
+    <!-- Commission Info Page -->
+    <string name="hint_refugee">Refugee Name Here</string>
+    <string name="hint_volunteer">Volunteer Name Here</string>
+    <string name="com_abtMe">About Me</string>
+    <string name="hint_comRate">Commission Rate</string>
+    <string name="hint_desc">Description Here</string>
+    <string name="place_order">Find Out More</string>
+
+    <!-- Commission Form -->
+    <string name="orderName">Enter Name</string>
+    <string name="orderPhoneNum">Enter Phone Number</string>
+    <string name="orderEmail">Enter E-Mail</string>
+    <string name="commission_interest_form">Commission Interest Form</string>
+<!--    <string name="com_interest">Interested in commissioning an order? Let us know and our staff will contact you shortly.</string>-->
+    <string name="com_interest">Interested in commissioning an order? Feel free to drop us a message and our staff would be glad to assist you.</string>
+    <string name="submit">Submit</string>
+    <string name="btnWhatsApp">Continue to WhatsApp</string>
+
+    <!-- Blog Page -->
+    <string name="hint_location">Location</string>
+    <string name="text_donate">Make a Donation</string>
+
+    <!-- Donation Page -->
+    <string name="donationDetails">Donation Details</string>
+    <string name="header_donate_detail">If you would like to contribute directly, kindly make the donation according to the following details:</string>
+    <string name="donate_bank">Bank: SpringBank</string>
+    <string name="donate_acc">Account Number: 123456789</string>
+    <string name="donate_acc_name">Account Name: TgtWithRefugees</string>
+    <string name="donate_code">Reference 1: Z001 (Zarya Ahmed)</string>
+    <string name="donate_code2">Reference 2: Your Phone Number</string>
+    <string name="donate_ref">Note: Please include your phone number as a reference so that we may contact you so that we may contact you as every donation comes with a token of appreciation.</string>
+    <string name="donate_back">Back to Blog Page</string>
+
+    <!-- Hints -->
+    <string name="product_name">Product Name</string>
+    <string name="product_maker">Person who made it</string>
+
+    <!-- Home Page Content -->
+    <string name="featureBtn1">Browse Products</string>
+    <string name="featureBtn2">Find out More</string>
+    <string name="featureBtn3">Read More</string>
+
+    <string name="featureDesc1">Go through a wide range of handcrafted products, specially made by the community :)</string>
+    <string name="featureDesc2">Interested in getting a unique piece?\nHave a look at what the community has to offer!</string>
+    <string name="featureDesc3">Gain insights on the life of a refugee,\nfrom their journey to their daily lives.</string>
+
+    <!-- Log In Status -->
+    <string name="txtGuestStatus">You are currently logged in as guest</string>
+    <string name="txtEmailStatus">\"Currently logged in: \"</string>
+
+    <!-- Blog Content -->
+    <string name="blogName1">Zarya Ahmed (@Z001)</string>
+    <string name="blogLoc1">Country of Origin: Myanmar</string>
+    <string name="blogDesc1">Hi, I am Zarya. I was on born in a small village in the Rakhine State of Myanmar. I left my home in December 2009 and arrived in Malaysia…</string>
+   <string name="blogBtn1">Make a donation</string>
+
+    <!-- Commission Information -->
+    <string name="comName1">Zarya Ahmed (@Z001)</string>
+    <string name="comBuddy1">Buddy: Skye Lee (@S001)</string>
+    <string name="comRate1">Current Rate: RM10/piece</string>
+    <string name="comDesc1">Hi there! I am Zarya. I specialize in hand sewn products such as scrunchies.</string>
+    <string name="comBtn">Find out more</string>
+
+    <!-- Product Details -->
+    <string name="title1">Scrunchie</string>
+    <string name="maker1">Made by Zarya</string>
+    <string name="title2">Tote Bag</string>
+    <string name="maker2">Made by Mariyam</string>
+    <string name="title3">Cloth hat</string>
+    <string name="maker3">Made by Saleha</string>
+    <string name="title4">Cloth face mask</string>
+    <string name="maker4">Made by Bunga</string>
+    <string name="title5">Scarf</string>
+    <string name="maker5">Made by Raya</string>
+
+</resources>
